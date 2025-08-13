@@ -1,0 +1,10 @@
+# File sementara
+*.log
+*.tmp
+
+# File sistem
+.DS_Store
+Thumbs.db
+
+# Output tools
+output/
