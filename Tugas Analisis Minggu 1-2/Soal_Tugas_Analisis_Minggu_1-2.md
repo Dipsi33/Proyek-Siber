@@ -1,10 +1,10 @@
 # Soal Latihan dan Tugas Analisis — Minggu 1-2
 
-**Penulis:** Sertu TTG Marthen Frikaldo Antaribaba 
+**Penulis:** Serka Bek Andi Kurniawan 
 
 **Prodi:** Teknik Informatika (Pertahanan Siber)
 
-**Tanggal:** 21 Oktober 2025
+**Tanggal:** 23 Oktober 2025
 
 ---
 
